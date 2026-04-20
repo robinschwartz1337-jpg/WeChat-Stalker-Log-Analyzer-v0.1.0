@@ -25,7 +25,14 @@ After discovering a **13-year-old WeChat log** filled with stalker activity, I a
 ### 📜 License
 **Opencreative 4.0** (based on CC BY 4.0)  
 Free to use, modify, extend, and distribute commercially. Just give proper attribution.
+## 💛 Support This Project
 
+If you find this tool helpful in protecting your digital safety, you can support ongoing development with a Bitcoin donation.
+
+**Bitcoin (BTC) Address:**  
+`bc1qn4wnj85qkw6a7n8pz06qvqmqqaszfflxdysss48`
+
+*Thank you for helping keep this project independent and open-source.*
 ### 🚀 Quick Start
 
 **pip**
