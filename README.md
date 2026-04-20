@@ -32,3 +32,6 @@ Free to use, modify, extend, and distribute commercially. Just give proper attri
 ```bash
 pip install git+https://github.com/robinschwartz1337-jpg/wechat-stalker-analyzer.git
 wechat-analyzer --logfile your_log.xml --ai
+Support my project
+<img width="609" height="1000" alt="Untitled" src="https://github.com/user-attachments/assets/38478baf-0d93-48b1-b5cb-ed2ad8701cc4" />
+
